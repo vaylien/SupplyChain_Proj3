@@ -1,0 +1,47 @@
+Ganache CLI v6.12.2 (ganache-core: 2.13.2)
+
+Available Accounts
+==================
+(0) 0xc2Ed033dd19B358C935ed7C3dF3b9297aE78DDBE (100 ETH)
+(1) 0x8b86950eB6F858fA6E21ea65b535Ef888355B831 (100 ETH)
+(2) 0xf29176e6Ed03c180Fad4fc37f6B35cfBEAbBb4b7 (100 ETH)
+(3) 0xe53bf2bB4E66F9C5c1b436151681a9734123dd25 (100 ETH)
+(4) 0x16212930a1062B89B56ee65A719053eD61D2eF37 (100 ETH)
+(5) 0xa0A8485B8f69F6163a4aa869aB6AE8716c0B2B22 (100 ETH)
+(6) 0x30c71EA6f90E5A1526D030d5f86e2f5d72C7Cf82 (100 ETH)
+(7) 0xA4653Fd2Bfb0E93Fa3c0d9fe6080878783E5AbC2 (100 ETH)
+(8) 0xdd1EB9e40a7F28bE8eADb81073De913415C396E6 (100 ETH)
+(9) 0x8819EEa67bc4Fd09E312480477f502b67bA25Dee (100 ETH)
+
+Private Keys
+==================
+(0) 0x39b63d0b9b322f201669b8e67fb9733e6aa2f7cabdf5fe2d37b730d86e9dfcc0
+(1) 0x51aaf0d74d0f9b6429ad6654fc06a5714c0a3a2fbe236ed14ba774435a0d85ab
+(2) 0xbe8ff61652932a2d7b0041e5885cebad55d1b267e302006707f4e6dfa5b38844
+(3) 0x8b5b77628d627f7d59afe44db5dbc912a369baba665101df69b85ffda653dfb6
+(4) 0x5e7289e29d931f90a5fa9de11e697857a50f3453440faf783fdfc4882bbd3e02
+(5) 0x89d97fe491939097d50d1401eafa2be2afad6fac34f70c813dcf4333cacb989f
+(6) 0x0366546a324d9bb1d22243dc2f2327ff067b4b96d4aa5f5d09b3bfee277b4eb3
+(7) 0xe67536e1fb3b54585305c2157b159a06a8459cfb837907c52c100d54bb297b98
+(8) 0x06d2cacb533fe1e5f5fac5d60bd84c040d6a824e66accd1ec91b41e8c8fb2dd2
+(9) 0x7821877e7caea9efc33deebf48dfeb4350010217305f70057a1f7904f0992e88
+
+HD Wallet
+==================
+Mnemonic:      legend road trial smooth neck access asthma scale typical retreat unique gadget
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+Call Gas Limit
+==================
+9007199254740991
+
+Listening on 127.0.0.1:8545
+

@@ -1,0 +1,1 @@
+ganache-cli -m "legend road trial smooth neck access asthma scale typical retreat unique gadget"
